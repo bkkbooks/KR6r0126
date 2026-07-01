@@ -1,0 +1,515 @@
+canonical_identifier: bkk:krp/KR6r0126/v1
+canonical_location: https://kanripo.org/bkk/KR6r0126/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 南海寄歸內法傳
+  identifiers:
+    alt_id:
+    - T54n2125
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T54/T54n2125.xml
+    old_id: T54n2125
+  edition:
+    short: bkk
+editions:
+- short: 宋
+  label: 宋
+  source_xml_id: wit1
+- short: 元
+  label: 元
+  source_xml_id: wit2
+- short: 明
+  label: 明
+  source_xml_id: wit3
+- short: 金藏乙-CB
+  label: 金藏乙-CB
+  source_xml_id: wit4
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 石
+  label: 石
+  source_xml_id: wit7
+- short: 麗-CB
+  label: 麗-CB
+  source_xml_id: wit5
+- short: 宮
+  label: 宮
+  source_xml_id: wit8
+- short: 甲
+  label: 甲
+  source_xml_id: wit9
+- short: 思溪-CB
+  label: 思溪-CB
+  source_xml_id: wit6
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6r0126_000.yaml, hash: 'sha256:dacb1311c6d7af1fd272bfea125330bbd133ea5f47361aded184067e5c396f6b'}
+  - {seq: 1, filename: KR6r0126_001.yaml, hash: 'sha256:85ccd49fe6b59a7cc29bfb9323f42d9bbd81a7ef048d68e800ecb1fadf39fdbf'}
+  - {seq: 2, filename: KR6r0126_002.yaml, hash: 'sha256:423b10e7660642fb5f776304a4fe9082db6c2448fea0366b2b3113acee14341b'}
+  - {seq: 3, filename: KR6r0126_003.yaml, hash: 'sha256:f7be7660667803f3d773418086b075e608ae25d75f32614ede3d7934792b9c39'}
+  - {seq: 4, filename: KR6r0126_004.yaml, hash: 'sha256:c77665947fbe664d6c1edad68e4e9ebf520bd5e08b3288a6992fda6c67cdc00a'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6r0126_001.markers.yaml, hash: 'sha256:142ef33b3a43e2a9d1e164825dd101f91a9b9605dff5288d1f64b5640415b1d7'}
+  - {seq: 2, role: markers, filename: assets/KR6r0126_002.markers.yaml, hash: 'sha256:c940fe2c403060943c0b4fbd0017fa673e07d71b4294f8ea2e92fb5f5474a9fd'}
+  - {seq: 3, role: markers, filename: assets/KR6r0126_003.markers.yaml, hash: 'sha256:acd7584689b9061f1d98c96c39d540949a77e20420ee6100b67049a7c1e1d1f1'}
+  - {seq: 4, role: markers, filename: assets/KR6r0126_004.markers.yaml, hash: 'sha256:210c060a79afab2ea71d78a2c28a6054b5e8bd24ca3b05f576fd162f15e2d08d'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6r0126_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 10304
+  label: 南海寄歸內法傳卷第一并序
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0126_T_001-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 義淨序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0126_T_001-mulu-2
+    span:
+    - body
+    - 2903
+    - 2903
+  label: 1 破夏非小
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0126_T_001-mulu-3
+    span:
+    - body
+    - 2992
+    - 2992
+  label: 2 對尊之儀
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0126_T_001-mulu-4
+    span:
+    - body
+    - 3130
+    - 3130
+  label: 3 食坐小床
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0126_T_001-mulu-5
+    span:
+    - body
+    - 3493
+    - 3493
+  label: 4 飡分淨觸
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0126_T_001-mulu-6
+    span:
+    - body
+    - 4003
+    - 4003
+  label: 5 食罷去穢
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0126_T_001-mulu-7
+    span:
+    - body
+    - 4278
+    - 4278
+  label: 6 水有二瓶
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0126_T_001-mulu-8
+    span:
+    - body
+    - 4762
+    - 4762
+  label: 7 晨旦觀蟲
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0126_T_001-mulu-9
+    span:
+    - body
+    - 5490
+    - 5490
+  label: 8 朝嚼齒木
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0126_T_001-mulu-10
+    span:
+    - body
+    - 6054
+    - 6054
+  label: 9 受齋軌則
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0126_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 9257
+  label: 南海寄歸內法傳卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0126_T_002-mulu-1
+    span:
+    - body
+    - 62
+    - 62
+  label: 10 衣食所須
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0126_T_002-mulu-2
+    span:
+    - body
+    - 3931
+    - 3931
+  label: 11 著衣法式
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0126_T_002-mulu-3
+    span:
+    - body
+    - 5270
+    - 5270
+  label: 12 尼衣喪制
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0126_T_002-mulu-4
+    span:
+    - body
+    - 6392
+    - 6392
+  label: 13 結淨地法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0126_T_002-mulu-5
+    span:
+    - body
+    - 6869
+    - 6869
+  label: 14 五眾安居
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0126_T_002-mulu-6
+    span:
+    - body
+    - 7232
+    - 7232
+  label: 15 隨意成規
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0126_T_002-mulu-7
+    span:
+    - body
+    - 7892
+    - 7892
+  label: 16 匙筯合否
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0126_T_002-mulu-8
+    span:
+    - body
+    - 7991
+    - 7991
+  label: 17 知時而禮
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0126_T_002-mulu-9
+    span:
+    - body
+    - 8241
+    - 8241
+  label: 18 便利之事
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0126_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 10125
+  label: 南海寄歸內法傳卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0126_T_003-mulu-1
+    span:
+    - body
+    - 90
+    - 90
+  label: 19 受戒軌則
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0126_T_003-mulu-2
+    span:
+    - body
+    - 2312
+    - 2312
+  label: 20 洗浴隨時
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0126_T_003-mulu-3
+    span:
+    - body
+    - 2811
+    - 2811
+  label: 21 坐具襯身
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0126_T_003-mulu-4
+    span:
+    - body
+    - 2963
+    - 2963
+  label: 22 臥息方法
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0126_T_003-mulu-5
+    span:
+    - body
+    - 3463
+    - 3463
+  label: 23 經行少病
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0126_T_003-mulu-6
+    span:
+    - body
+    - 3738
+    - 3738
+  label: 24 禮不相扶
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0126_T_003-mulu-7
+    span:
+    - body
+    - 3947
+    - 3947
+  label: 25 師資之道
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0126_T_003-mulu-8
+    span:
+    - body
+    - 5684
+    - 5684
+  label: 26 客舊相遇
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0126_T_003-mulu-9
+    span:
+    - body
+    - 6189
+    - 6189
+  label: 27 先體病源
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0126_T_003-mulu-10
+    span:
+    - body
+    - 7030
+    - 7030
+  label: 28 進藥方法
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0126_T_003-mulu-11
+    span:
+    - body
+    - 8510
+    - 8510
+  label: 29 除其弊藥
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0126_T_003-mulu-12
+    span:
+    - body
+    - 8943
+    - 8943
+  label: 30 旋右觀時
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0126_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 10743
+  label: 南海寄歸內法傳卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0126_T_004-mulu-1
+    span:
+    - body
+    - 78
+    - 78
+  label: 31 灌沐尊儀
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0126_T_004-mulu-2
+    span:
+    - body
+    - 904
+    - 904
+  label: 32 讚詠之禮
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0126_T_004-mulu-3
+    span:
+    - body
+    - 2537
+    - 2537
+  label: 33 尊敬乖式
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0126_T_004-mulu-4
+    span:
+    - body
+    - 2701
+    - 2701
+  label: 34 西方學法
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0126_T_004-mulu-5
+    span:
+    - body
+    - 5075
+    - 5075
+  label: 35 長髮有無
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0126_T_004-mulu-6
+    span:
+    - body
+    - 5642
+    - 5642
+  label: 36 亡財僧現
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0126_T_004-mulu-7
+    span:
+    - body
+    - 6611
+    - 6611
+  label: 37 受用僧物
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0126_T_004-mulu-8
+    span:
+    - body
+    - 7103
+    - 7103
+  label: 38 燒身不合
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0126_T_004-mulu-9
+    span:
+    - body
+    - 7567
+    - 7567
+  label: 39 傍人獲罪
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0126_T_004-mulu-10
+    span:
+    - body
+    - 7823
+    - 7823
+  label: 40 古德不為
+  type: mulu
+  level: 1
+hash: sha256:c94ca8c04d05ce874e1a2db00c655b8a7f177ab0aa73cdd1dc498a230de20d42
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
